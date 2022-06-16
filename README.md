@@ -6,4 +6,4 @@
 ## v2ray
 ### 订阅链接:https://github.xiaokuqwq.eu.org/https://raw.githubusercontent.com/xiao811/freevpn/main/v2
 
-##TG:https://t.me/freevpnxiaoio
+## TG群聊:https://t.me/freevpnxiaoio
